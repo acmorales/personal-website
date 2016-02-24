@@ -1,0 +1,21 @@
+
+/*
+========================================================
+ This pattern is downloaded from www.subtlepatterns.com 
+ If you need more, that's where to get'em.
+========================================================
+*/
+
+@import url(http://fonts.googleapis.com/css?family=Open+Sans|Oxygen:300);
+
+body {
+    padding-top: 15%;
+    background-image: url("../resources/grid.png");
+    font-family: "Open Sans", "Helvetica Neue", "Arial", sans-serif;
+}
+
+.titlename {
+    font-family: "Oxygen", "Arial", sans-serif;
+    font-size: 64px;
+    text-align: center;
+}
